@@ -1,7 +1,7 @@
 import random
 import math
 
-alpha = "abcdefghijklmnopqrstuvwxyz"
+alpha = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
 num = "0123456789"
 special = "@#$%&*"
 
